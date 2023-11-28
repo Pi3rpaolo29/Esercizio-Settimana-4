@@ -62,6 +62,10 @@ header.scrolled{
 }
 /* Parte sotto la navbar testo */
 
+.navbar ul li:nth-child(5) a.scrolled{
+    background-color: #538724;
+}
+
 .headerBottom{
     height: 30em;
     display:flex;
