@@ -8,5 +8,3 @@ document.addEventListener('scroll', () => {
     }
 })
 
-
-/* Non so dove sia l'errore */
