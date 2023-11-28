@@ -60,11 +60,12 @@ header.scrolled{
     border-radius: 3em;
     padding: 0.5em 1em;
 }
-/* Parte sotto la navbar testo */
 
 .navbar ul li:nth-child(5) a.scrolled{
     background-color: #538724;
 }
+
+/* Parte sotto la navbar testo */
 
 .headerBottom{
     height: 30em;
